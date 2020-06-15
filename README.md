@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 ## NLP On Exchanging Diverse Data Microservices
 
 NLP is a subset of AI and Machine Learning, in this usecase we are using three microservices for a calculating sentiment for 
