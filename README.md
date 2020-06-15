@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ## NLP On Exchanging Diverse Data Microservices
 
@@ -85,3 +86,4 @@ feebacks given by users on a ecommerce sites.
 		"bsonid":"xusyis892js98siw8",
 		"id":1
 	}]
+
